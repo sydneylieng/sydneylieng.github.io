@@ -1,9 +1,9 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: Sydney lieng
+description: Software Engineering, McMaster University
+url: https://sydneylieng.github.io
 logo: halve.png                                       # Site logo
-locale: en_US
+locale: en_CA
 
 # Left Block Images
 background:
@@ -29,13 +29,13 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             liengsn@mcmaster.ca
 #google.plus:        username
-twitter:            username
+#twitter:            username
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+github:             sydneylieng
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          sydneylieng from a "https://www.linkedin.com/in/sydneylieng" link
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
