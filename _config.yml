@@ -2,7 +2,7 @@
 title: Sydney lieng
 description: Software Engineering, McMaster University
 url: https://sydneylieng.github.io
-logo: halve.png                                       # Site logo
+logo: logo.png                                       # Site logo
 locale: en_CA
 
 # Left Block Images
@@ -35,7 +35,7 @@ email:             liengsn@mcmaster.ca
 #facebook:           username
 github:             sydneylieng
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          sydneylieng from a "https://www.linkedin.com/in/sydneylieng" link
+linkedin:          sydneylieng
 #xing:              username
 #instagram:          username
 #lastfm:            username
