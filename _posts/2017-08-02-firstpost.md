@@ -8,7 +8,7 @@ tag:
 ---
 
 {% capture fig_img %}
-![Foo]({{ site.url }}/images/pageone2.jpg)
+![Foo]({{ site.url }}/images/firstpost.jpg)
 {% endcapture %}
 
 <figure>
