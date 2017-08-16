@@ -1,7 +1,7 @@
 - title: Stone Identification App
-  url: 
+  url: https://github.com/sydneylieng/3AO4.git
   image: 
-  completed: false
+  completed: true
 
 - title: Hextris
   url: 
@@ -12,3 +12,8 @@
   url: 
   image: 
   completed: false
+  
+- title: Entity Checker
+  url: https://github.com/sydneylieng/Entity_Checker.git
+  image: 
+  completed: true
