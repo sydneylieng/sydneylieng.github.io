@@ -1,7 +1,7 @@
 - title: VirtualCloset (in progress)
   url: 
   image: images/picture6.jpg 
-  completed: true
+  completed: false
 
 - title: Entity Checker
   url: https://github.com/sydneylieng/Entity_Checker.git
