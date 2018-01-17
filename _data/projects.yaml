@@ -1,26 +1,26 @@
 - title: VirtualCloset
   url: https://github.com/MightyRevenge/virtualcloset
-  image: images/picture1.jpg 
+  image: images/picture6.jpg 
   completed: false
 
 - title: Entity Checker
   url: https://github.com/sydneylieng/Entity_Checker.git
-  image: images/picture2.jpg
+  image: images/picture6.jpg
   completed: true
   
 - title: Stone Identification App
   url: https://github.com/sydneylieng/3AO4.git
-  image: images/picture3.jpg
+  image: images/picture6.jpg
   completed: true
 
 - title: Hextris
   url: https://github.com/sydneylieng/Hextris.git
-  image: images/picture4.jpg
+  image: images/picture6.jpg
   completed: true
 
 - title: Build Your Buck
   url: https://github.com/sydneylieng/Build_Your_Buck
-  image: images/picture5.jpg
+  image: images/picture6.jpg
   completed: true
 
 - title: ENGforME
@@ -30,7 +30,7 @@
   
 - title: ATM Interface
   url: https://github.com/JosephAQM/ATM_Interface
-  image: images/picture2.jpg
+  image: images/picture6.jpg
   completed: true
 
   
