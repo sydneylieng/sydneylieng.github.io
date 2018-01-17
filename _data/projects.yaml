@@ -10,27 +10,27 @@
   
 - title: Stone Identification App
   url: https://github.com/sydneylieng/3AO4.git
-  image: 
+  image: images/picture3.jpg
   completed: true
 
 - title: Hextris
   url: https://github.com/sydneylieng/Hextris.git
-  image: 
+  image: images/picture4.jpg
   completed: true
 
 - title: Build Your Buck
   url: https://github.com/sydneylieng/Build_Your_Buck
-  image: 
+  image: images/picture5.jpg
   completed: true
 
 - title: ENGforME
   url: https://github.com/sydneylieng/ENGforME
-  image: 
+  image: images/picture6.jpg
   completed: true
   
 - title: ATM Interface
   url: https://github.com/JosephAQM/ATM_Interface
-  image: 
+  image: images/picture2.jpg
   completed: true
 
   
