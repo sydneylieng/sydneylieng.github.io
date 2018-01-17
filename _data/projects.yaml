@@ -1,11 +1,11 @@
 - title: VirtualCloset
   url: https://github.com/MightyRevenge/virtualcloset
-  image: 
+  image: #images/picture1.jpg 
   completed: false
 
 - title: Entity Checker
   url: https://github.com/sydneylieng/Entity_Checker.git
-  image: 
+  image: #images/picture2.jpg
   completed: true
   
 - title: Stone Identification App
