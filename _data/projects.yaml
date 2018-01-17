@@ -1,7 +1,7 @@
-- title: VirtualCloset
-  url: https://github.com/MightyRevenge/virtualcloset
+- title: VirtualCloset (in progress)
+  url: 
   image: images/picture6.jpg 
-  completed: false
+  completed: true
 
 - title: Entity Checker
   url: https://github.com/sydneylieng/Entity_Checker.git
