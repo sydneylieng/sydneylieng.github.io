@@ -39,7 +39,7 @@ During this job, I coordinated and attended meetings to advocate for 3700 studen
 This job allowed me to meet so many different people and learn so much more about McMaster.
 
 ## Student Engineer
-###Stahlsmidst Cable and SystemI
+### Stahlsmidst Cable and System
 ### May – August 2015
 I was able to score a summer position at this company as a Student Engineer. My main job was to assist the Quality Engineer with all her duties. This includes ensuring all products meet the standard requirements and creating documentation for it. I also created packaging outlines for new program cables given clients' specifications. I developed insight on mechanical testing, such as Stroke Loss, Efficiency and Routing Loss, as well as how to present and communicate the information tested to clients. 
 It was a lot of new experiences packed into one summer, but from this, I got a good look at how the automotive industry works!
@@ -50,6 +50,15 @@ It was a lot of new experiences packed into one summer, but from this, I got a g
 For my co-op, I thankfully got hired at Teknion as a CAD Specialist. This position gave me a big insight of how corporate companies work. For a company that creates high-end office furniture, there are a lot complexity within the company. 
 For my position, I was in the Marketing and Sales. I was responsible for desiging and developing CAD symbols and Installation Guides that represent Teknion products as a graphical representation used in the sales process. 
 There were a lot of manual work when it comes to creating CAD symbols. To quicken one of the checking processes I developed Excel and AutoCAD scripts that automated it. This project can be found on the my project page called Entity Checker. 
+This was a great experience as I now feel ready for the next step of my career! 
+
+# The Next Step.
+## Developer World
+I am looking for a developer position in any field. I have a wide set of skills that I gained throughout my undergrad and career experiences that I know will help me excel.
+I love the tech industry as it is always growing and there's always more to learn! 
+Can't wait to see where it takes me! 
+
+
 
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Halve&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
       
